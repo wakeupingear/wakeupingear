@@ -1,4 +1,4 @@
-### Hi, I'm ***Will***!
+### Hi, I'm Will!
 
 I'm a Gamedev and Fullstack Designer passionate about interactive and fun software. 
 
