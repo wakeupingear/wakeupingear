@@ -13,5 +13,6 @@ and in the past:
 * medical research and app dev at BodyAI
 * AR systems design for NASA SUITS
 * 2x ml and swe intern at USC Viterbi
+* contract game dev at Toonstar + Tiny Headed Kingdom
 
 more stuff at [willfarhat.com](willfarhat.com)
