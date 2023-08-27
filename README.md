@@ -1,9 +1,9 @@
-## hey
+  ## hey
 
 ### i make websites, apps, games, whatever's fun
 
 currently that means:
-* heading up engineering at [Keepsake](hellokeepsake.com)
+* heading up engineering at [Keepsake](https://hellokeepsake.com)
 * leading teams at USC Games
 * bootstrapping the USC Games database project
 * building lots lots lots on the side
