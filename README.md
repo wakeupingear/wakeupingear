@@ -4,8 +4,7 @@
 
 currently that means:
 * heading up engineering at [Keepsake](https://hellokeepsake.com)
-* leading teams at USC Games
-* bootstrapping the USC Games database project
+* promoting (The WereCleaner)[https://the-werecleaner.vercel.app/] across the internet
 * building lots lots lots on the side
 
 and in the past:
