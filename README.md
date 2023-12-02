@@ -4,7 +4,7 @@
 
 currently that means:
 * heading up engineering at [Keepsake](https://hellokeepsake.com)
-* promoting [The WereCleaner](https://the-werecleaner.vercel.app/) across the internet
+* promoting [The WereCleaner](https://thewerecleaner.co) across the internet
 * building lots lots lots on the side
 
 and in the past:
@@ -14,4 +14,4 @@ and in the past:
 * 2x ml and swe intern at USC Viterbi
 * contract game dev at Toonstar + Tiny Headed Kingdom
 
-more stuff at [willfarhat.com](willfarhat.com)
+more stuff at [abbyfarhat.com](https://abbyfarhat.com)
