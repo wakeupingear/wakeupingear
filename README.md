@@ -16,4 +16,4 @@ and in the past:
 
 more stuff at [abbyfarhat.com](https://abbyfarhat.com)
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/wakeupingear/wakeupingear/assets/35930179/75d69fd1-ad53-4e73-bc32-b91528982ea7');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/wakeupingear/wakeupingear/assets/35930179/e6178deb-3b45-44fb-a3df-e271bafafcdf');]{x0000}$}
